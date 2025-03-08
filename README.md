@@ -44,7 +44,10 @@ Bootcamp ini mencakup **tiga proyek utama**, dari **Basic, Intermediate, hingga 
 - Mampu **mengolah, membersihkan, dan memvalidasi data**  
 - Mampu **membuat visualisasi dan dashboard profesional**  
 - Mempelajari **otomatisasi tugas menggunakan Macro VBA**  
-- Meningkatkan kesiapan karier dengan **kelas CV & interview preparation**  
+- Meningkatkan kesiapan karier dengan **kelas CV & interview preparation**
+  
+## 🔗 Link Penting  
+- 📄 **PDF Power Point:** https://drive.google.com/file/d/1PPkqE-iSvBFe1hywlF5JF30CYpqiGwZj/view?usp=sharing
 
 ---  
 Dokumen ini merupakan bagian dari proyek **MySkill Fullstack Microsoft Excel Bootcamp - Basic to Advanced**.
